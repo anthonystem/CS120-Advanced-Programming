@@ -71,7 +71,7 @@ After you die, a message will pop up saying you died. If you get a high score, i
 ### Coin
 **Coin** A class that represents the Coin object. Extends the Character class.
 
-###Ability
+### Ability
 **Ability** A class that manages and stores the abilities.
 
 ## Known Bugs
