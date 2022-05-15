@@ -71,7 +71,7 @@ After you die, a message will pop up saying you died. If you get a high score, i
 ### Coin
 **Coin** A class that represents the Coin object. Extends the Character class.
 
-##Ability
+###Ability
 **Ability** A class that manages and stores the abilities.
 
 ## Known Bugs
@@ -91,44 +91,3 @@ This project has been run on both macOS and Windows operating systems.
 
 ## Installations
 No installations are needed to run this project.
-
-
-## Grade
-
-### Design
-#### Team Grade: 10/20
-We chose to grade ourselves **10/20** because the program meets all the requirements except for having a testing suite.
-
-* Used concepts from Modules 2 and 4.
-* Validated user input using switch cases.
-* Visual element was main focus of project.
-
-Overall, the program meets all requirements in a meaningful way, except for having a testing suite, which is why we gave ourselves 10/20.
-
-### Execution
-
-#### Team Grade: 50/50
-We chose to grade ourselves **50/50** for this rubric section. 
-
-* No known logic, compiler, or runtime errors in this project. 
-* All inputs and files are validated when the user plays the game, ensuring that there are no runtime errors. 
-* All the program logic within functions as intended, and the program is fully-function.
-* There is documentation that within the program classes allowing for readability.
-
-Overall, the program runs exactly as intended and has no known bugs or errors, which is why we gave ourselves 50/50.
-
-### Usability
-#### Team Grade: 25/25
-We chose to grade ourselves **25/25** for this section. We believe that the program is very fun to play. The point feature and high score feature add an incentive for the user to take down as many enemy ships as possible.
-
-In addition to being a fun game to play, the program validates all input from external files, as well as any keyboard and mouse presses.
-
-Overall, the program meets all the requirements in this section, which is why we scored ourselves 25/25.
-
-### Complexity
-#### Team Grade: 50/50
-
-We chose to grade ourselves 50/50 for this section. We feel as this program contains as much complexity as a final project due to the many classes and multiple features it possesses. The program also contains alot of functionality as there are multiple difficulties, abilities and screens displayed to the user.
-
-Overall, the program meets the complexity requirement in this section, which is why we scored ourselves 50/50.
-### Overall Team Grade: 130/140
